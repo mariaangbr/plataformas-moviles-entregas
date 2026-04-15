@@ -1,0 +1,99 @@
+body {
+			font-size: 18px;
+			background-color: #ffe;
+			color: #210;
+		}
+
+		#contenedor {
+			max-width: 40ch;
+			margin: 2rem auto;
+			padding: 1rem;
+		}
+
+		h1 {
+			font-size: 2rem;
+			text-align: left;
+		}
+
+		p {
+			font-family: sans-serif;
+		}
+
+		#primer-parrafo {
+			font-size: 1.3rem;
+			background-color: #eec;
+		}
+
+		p.importante em {
+			font-weight: bold;
+			color: #144;
+		}
+
+		p.novelas a {
+			outline: none;
+			text-decoration: none;
+		}
+		p.novelas a:hover {
+			text-decoration: underline;
+			background-color: #ccd;
+		}
+
+		body p.fuente.parrafo {
+			color: #bbb !important;
+			font-size: 0.9rem;
+			opacity: 50%;
+			text-align: center;
+		}
+
+
+/*actividad*/
+
+/*1)*/
+h1{
+    text-align: center;
+}
+
+/*2)*/
+p{
+    font-family: sans-serif;
+}
+
+/*3)*/
+#primer-parrafo{
+    background-color: #CEE;
+}
+
+/*4)*/
+em{
+    color: #933;
+}
+
+/*5)*/
+a{
+    outline: 1px solid #333;
+}
+
+/*6)*/
+.fuente.parrafo {
+    opacity: 100%;
+    background-color: #000;
+}
+
+/*7)*/
+.novelas.parrafo{
+    background-color: rgb(190, 120, 240, 0.6);
+
+}
+
+/*1)*/
+.fuente.parrafo {
+    background-color: #000;
+    
+}
+
+/*2)*/
+.complicado{
+    color: #c62;
+    font-weight: bold;
+ }   
+
